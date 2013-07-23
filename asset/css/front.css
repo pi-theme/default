@@ -278,9 +278,7 @@
 .pi-block-tab .active a {
   background: #fff;
   border-left-color: #ddd !important;
-  ;
   border-right-color: #ddd !important;
-  ;
   color: #333;
   font-weight: bold;
 }
